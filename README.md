@@ -10,12 +10,12 @@ I'm Sion Yeom, a growing Web Frontend Developer 🧑🏻‍💻🌱
 I want to let you know who I am 🙈 
 <br>
 Here is My 
-<a target="_blank" href="https://www.notion.so/99ffb6b4bf11475ea75b997efc9b6a5d"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a target="_blank" href="https://www.notion.so/99ffb6b4bf11475ea75b997efc9b6a5d"><img align="center" style="width:80px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
 
 <h3 align="center"> 🦾 Tech Stack  </h3>
 <div align="center">
-	<img style="width:70px; height:25px; border-radius:5px;"" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img style="width:70px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img style="width:70px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img style="width:100px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img style="width:100px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
