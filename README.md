@@ -34,7 +34,15 @@ Here is My
   <img style="width:90px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
   <img style="width:60px; height:25px; border-radius:5px;" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
+ <br>
+ <br>
+ <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sionyeom&show_icons=true&bg_color=00000000)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sionyeom)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?color=gradient&section=footer&type=Waving)
